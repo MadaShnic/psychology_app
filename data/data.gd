@@ -9,31 +9,31 @@ const exercises := {
 			},
 			1: {
 				"title": "Quick Cognitive Reappraisal",
-				"text": """Pause for a moment and describe the situation in one neutral sentence (just the facts). Then ask yourself: What are 2,3 other possible explanations? and What would I tell a friend in this situation? Choose the most balanced, realistic interpretation, not the most positive one. Take one slow breath, repeat that re,written perspective to yourself, and decide on your next small step."""
+				"text": """Pause for a moment and describe the situation in one neutral sentence (just the facts). Then ask yourself: What are 2-3 other possible explanations? and What would I tell a friend in this situation? Choose the most balanced, realistic interpretation, not the most positive one. Take one slow breath, repeat that rewritten perspective to yourself, and decide on your next small step."""
 			},
 			2: {
 				"title": "Self Compassion Reset",
-				"text": """Place a hand on your chest (or just soften your posture) and take one slow breath. Name what’s happening: I’m feeling angry at myself. Then say to yourself, out loud or in your head: I’m allowed to make mistakes without judging myself. Imagine you’re talking to a close friend who feels the same way, and offer them one kind sentence, then give that sentence to yourself. Stay with that kinder tone for 30,60 seconds and notice any shift, even a small one."""
+				"text": """Place a hand on your chest (or just soften your posture) and take one slow breath. Name what’s happening: I’m feeling angry at myself. Then say to yourself, out loud or in your head: I’m allowed to make mistakes without judging myself. Imagine you’re talking to a close friend who feels the same way, and offer them one kind sentence, then give that sentence to yourself. Stay with that kinder tone for 30-60 seconds and notice any shift, even a small one."""
 			},
 			3: {
 				"title": "Impulse Delay",
-				"text": """When you feel anger rising, stop and commit to a short delay. Slowly count to 10 (out loud or in your head) while breathing steadily. Use the count as a buffer to prevent an automatic reaction. At 10, ask: What action helps me most right now? Then choose your next move on purpose,speak calmly, step away, or wait longer if needed."""
+				"text": """When you feel anger rising, stop and commit to a short delay. Slowly count to 10 (out loud or in your head) while breathing steadily. Use the count as a buffer to prevent an automatic reaction. At 10, ask: What action helps me most right now? Then choose your next move on purpose speak calmly, step away, or wait longer if needed."""
 			},
 			4: {
 				"title": "Breath Counting",
-				"text": """Sit or stand comfortably. Inhale slowly and count 1 as you breathe in, then exhale slowly and keep the count. Continue up to 10 breaths, counting each full in,and,out cycle as one. If you lose track or get distracted, gently restart at 1,no frustration, just begin again. Keep the breaths smooth and unforced, letting your body settle as you count."""
+				"text": """Sit or stand comfortably. Inhale slowly and count 1 as you breathe in, then exhale slowly and keep the count. Continue up to 10 breaths, counting each full in and out cycle as one. If you lose track or get distracted, gently restart at 1, no frustration, just begin again. Keep the breaths smooth and unforced, letting your body settle as you count."""
 			},
 		},
 		"long": {
 			0: {
 				"title": "5 Minute Reset Walk",
-				"text": """Step outside (or walk indoors if needed) and move for 5 minutes at an easy pace. Feel your feet hitting the ground and let your shoulders drop. Match your steps to your breathing,inhale for a few steps, exhale for a few steps. If your thoughts spiral, gently bring your attention back to movement: feet, breath, posture. Finish by stopping for one deep breath and noticing how your body feels now."""
+				"text": """Step outside (or walk indoors if needed) and move for 5 minutes at an easy pace. Feel your feet hitting the ground and let your shoulders drop. Match your steps to your breathing, inhale for a few steps, exhale for a few steps. If your thoughts spiral, gently bring your attention back to movement: feet, breath, posture. Finish by stopping for one deep breath and noticing how your body feels now."""
 			},
 			1: {
 				"title": "PMR Mini Reset",
 				"text": """Sit or stand comfortably and inhale. Clench both fists and tense your forearms for 5 seconds. Exhale and fully release for 10 seconds, noticing the difference. Next, lift your shoulders up toward your ears and squeeze the tension for 5 seconds. Exhale and drop your shoulders, letting them feel heavy for 10 seconds. Repeat the fists + shoulders cycle 2-3 times, staying focused on the release sensation.
 
-You can use this same tense,release pattern with any body part (jaw, face, neck, chest, stomach, legs, feet): gently tense for a few seconds, then let go and feel the relaxation."""
+You can use this same tense-release pattern with any body part (jaw, face, neck, chest, stomach, legs, feet): gently tense for a few seconds, then let go and feel the relaxation."""
 			},
 			2: {
 				"title": "Conflict Reflection",
@@ -94,7 +94,7 @@ Why it helps: Physical activity has been shown to improve grief outcomes (e.g., 
 				"text": """Take five to ten minutes to write about what remains important to you in your life despite the loss. Reflect on which values continue to guide you and gently put these thoughts into words in a calm and quiet setting."""
 			},
 			3: {
-				"title": "Grief,Focused Journaling",
+				"title": "Grief Focused Journaling",
 				"text": """Write for 10,15 minutes each day about your loss , thoughts, emotions, memories, and how they shift over time. Structured writing interventions have been shown to reduce grief symptoms and psychological distress."""
 			},
 		}
@@ -102,7 +102,7 @@ Why it helps: Physical activity has been shown to improve grief outcomes (e.g., 
 	"stress": {
 		"short": {
 			0: {
-				"title": "4 7 8 Breathing Technique",
+				"title": "4-7-8 Breathing Technique",
 				"text": """Sit comfortably and place your feet on the floor. Breathe in quietly through your nose for four seconds. Hold your breath for seven seconds. Then slowly breathe out through your mouth for eight seconds. Repeat this breathing cycle four times, keeping your attention on the counting."""
 			},
 			1: {
@@ -111,7 +111,7 @@ Why it helps: Physical activity has been shown to improve grief outcomes (e.g., 
 			},
 			2: {
 				"title": "Expressive Writing",
-				"text": """Write continuously for 5 minutes about a stressful or upsetting experience. Go beyond the facts and focus on your deepest thoughts and feelings,what hurt, what you fear, what you wish had happened, what it means to you. Don’t edit, don’t worry about spelling, and don’t try to solve it,just keep writing until the 5 minutes are up.
+				"text": """Write continuously for 5 minutes about a stressful or upsetting experience. Go beyond the facts and focus on your deepest thoughts and feelings what hurt, what you fear, what you wish had happened, what it means to you. Don’t edit, don’t worry about spelling, and don’t try to solve it, just keep writing until the 5 minutes are up.
 When you finish, add one final line: What I need right now is ___. Then take one slow breath and return to your day."""
 			},
 		},
@@ -126,11 +126,11 @@ When you finish, add one final line: What I need right now is ___. Then take one
 			},
 			2: {
 				"title": "Transcendental Meditation,Style ",
-				"text": """Sit comfortably and close your eyes. Let your attention settle inward without forcing anything,when you notice thoughts, don’t fight them; gently return to a simple, calm inward focus. Stay seated for 10,20 minutes, then open your eyes slowly and take a moment before moving."""
+				"text": """Sit comfortably and close your eyes. Let your attention settle inward without forcing anything,when you notice thoughts, don’t fight them; gently return to a simple, calm inward focus. Stay seated for 10-20 minutes, then open your eyes slowly and take a moment before moving."""
 			},
 			3: {
 				"title": "Nature Immersion / Forest Bathing",
-				"text": """Spend 10 to 30 minutes in a natural environment such as a park, forest, or garden. Walk slowly or sit quietly and direct your attention to natural elements around you: trees, leaves, light, sounds, and scents. Engage your senses without rushing or using your phone. Allow your breathing to slow and your body to settle. Repeated, mindful time in nature supports stress regulation, lowers cortisol levels, and enhances overall well,being."""
+				"text": """Spend 10-30 minutes in a natural environment such as a park, forest, or garden. Walk slowly or sit quietly and direct your attention to natural elements around you: trees, leaves, light, sounds, and scents. Engage your senses without rushing or using your phone. Allow your breathing to slow and your body to settle. Repeated, mindful time in nature supports stress regulation, lowers cortisol levels, and enhances overall wellbeing."""
 			},
 		}
 	},
@@ -146,11 +146,11 @@ When you finish, add one final line: What I need right now is ___. Then take one
 			},
 			2: {
 				"title": "Compassion Visualization",
-				"text": """Close your eyes (or soften your gaze) and take one slow breath. Picture someone,real or imagined,who feels safe, warm, and accepting. Imagine their face, voice, or presence, and let them send you understanding: You’re okay. I’m here. Notice what happens in your body (softening, warmth, calmer breath). Stay with the image for 60,90 seconds, then open your eyes and take one small, kind next step."""
+				"text": """Close your eyes (or soften your gaze) and take one slow breath. Picture someone,real or imagined,who feels safe, warm, and accepting. Imagine their face, voice, or presence, and let them send you understanding: You’re okay. I’m here. Notice what happens in your body (softening, warmth, calmer breath). Stay with the image for 60-90 seconds, then open your eyes and take one small, kind next step."""
 			},
 			3: {
 				"title": "Neutral Observer View",
-				"text": """Pause and describe what happened like a neutral reporter,just facts, no assumptions. Then ask: What would a neutral person think is happening here? Write one or two balanced interpretations (e.g., They might be stressed, This could be a misunderstanding). Finally, choose one calm response that fits the neutral view,ask a clarifying question, slow down the conversation, or take a short break."""
+				"text": """Pause and describe what happened like a neutral reporter, just facts, no assumptions. Then ask: What would a neutral person think is happening here? Write one or two balanced interpretations (e.g., They might be stressed, This could be a misunderstanding). Finally, choose one calm response that fits the neutral view, ask a clarifying question, slow down the conversation, or take a short break."""
 			},
 		},
 		"long": {
@@ -164,7 +164,7 @@ When you finish, add one final line: What I need right now is ___. Then take one
 			},
 			2: {
 				"title": "Narrative Reframing",
-				"text": """Take 3,5 minutes and write what happened in a few sentences. Then rewrite the same story as if you were speaking to a good friend: kind, fair, and understanding. Include three parts: (1) what you went through, (2) why your reaction makes sense, (3) what you want to learn or do next. End with one supportive line you’d say to your friend,and let it be for you, too."""
+				"text": """Take 3-5 minutes and write what happened in a few sentences. Then rewrite the same story as if you were speaking to a good friend: kind, fair, and understanding. Include three parts: (1) what you went through, (2) why your reaction makes sense, (3) what you want to learn or do next. End with one supportive line you’d say to your friend and let it be for you too."""
 			},
 			3: {
 				"title": "Shame Thought Exposure",
@@ -172,7 +172,7 @@ When you finish, add one final line: What I need right now is ___. Then take one
 			},
 			4: {
 				"title": "Shame Journal",
-				"text": """Write for 5-10 minutes about one situation that brought up shame. Describe what happened and what you were thinking and feeling,honestly, without trying to sound right. Then add: What did I need in that moment? and What can I learn or do differently next time? End with one balanced sentence you want to remember (e.g., I made a mistake, and I can still grow from it.)."""
+				"text": """Write for 5-10 minutes about one situation that brought up shame. Describe what happened and what you were thinking and feeling,honestly, without trying to sound right. Then add: What did I need in that moment? and What can I learn or do differently next time? End with one balanced sentence you want to remember (e.g. I made a mistake, and I can still grow from it.)."""
 			},
 		}
 	},
@@ -187,7 +187,7 @@ When you finish, add one final line: What I need right now is ___. Then take one
 				"text": """Direct your attention systematically through your body. Focus on your feet, legs, abdomen, and shoulders one after the other. Observe sensations without judgment, which enhances interoceptive awareness and reduces anxiety."""
 			},
 			2: {
-				"title": "5 4 3 2 1 Grounding Technique",
+				"title": "5-4-3-2-1 Grounding Technique",
 				"text": """Anchor your attention in the present moment by engaging your senses. Name five things you can see, four things you can feel physically, three things you can hear, two things you can smell, and one thing you can taste (or would like to taste). This redirects attention away from anxious thoughts toward concrete sensory experience."""
 			},
 			3: {
@@ -210,11 +210,11 @@ When you finish, add one final line: What I need right now is ___. Then take one
 			},
 			2: {
 				"title": "Scheduled Worry",
-				"text": """Collect your worries and postpone them to a designated worry window. Set a 15,minute daily slot at a fixed time (e.g., 19:00) to write down all your concerns. This prevents anxiety from taking over your day and gives you control over when to focus on them."""
+				"text": """Collect your worries and postpone them to a designated worry window. Set a 15 minute daily slot at a fixed time (e.g. 19:00) to write down all your concerns. This prevents anxiety from taking over your day and gives you control over when to focus on them."""
 			},
 			3: {
 				"title": "Sleep Hygiene Mini Intervention",
-				"text": """Structure your sleep habits to reduce nighttime anxiety. Try a 10,minute screen,free period before bed and maintain a consistent sleep schedule. Notice how your mind and body relax more easily."""
+				"text": """Structure your sleep habits to reduce nighttime anxiety. Try a 10 minute screen free period before bed and maintain a consistent sleep schedule. Notice how your mind and body relax more easily."""
 			},
 		}
 	},
@@ -229,8 +229,8 @@ When you finish, add one final line: What I need right now is ___. Then take one
 				"text": """Imagine a positive and realistic version of your future. Visualize yourself having made progress in one year, noticing what has changed and how you feel. This exercise strengthens motivation, goal orientation, and a sense of hope."""
 			},
 			2: {
-				"title": "Self,Compassion Statement",
-				"text": """Place a hand on your chest and repeat a supportive phrase such as, This is hard, and I’m allowed to feel this way. Self,compassion practices reduce self,criticism and depressive symptoms."""
+				"title": "Self-Compassion Statement",
+				"text": """Place a hand on your chest and repeat a supportive phrase such as, This is hard, and I’m allowed to feel this way. Self-compassion practices reduce self,criticism and depressive symptoms."""
 			},
 			3: {
 				"title": "Thought Labeling",
@@ -248,7 +248,7 @@ When you finish, add one final line: What I need right now is ___. Then take one
 			},
 			2: {
 				"title": "Social Connection",
-				"text": """Reach out to someone you trust or feel emotionally connected to. This could be a message, a call, or simply writing to them. Seeking social connection provides emotional support and helps buffer against feelings of isolation and hopelessness."""
+				"text": """Reach out to someone you trust or feel emotionally connected to. This could be a message, a call or simply writing to them. Seeking social connection provides emotional support and helps buffer against feelings of isolation and hopelessness."""
 			},
 			3: {
 				"title": "Best Possible Self Visualization",
