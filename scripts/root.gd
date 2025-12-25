@@ -30,7 +30,7 @@ func _on_favorites_pressed() -> void:
 # Variation
 func _on_variation_button_pressed(button: Button) -> void:
 	current_variation = button.text.to_lower().strip_edges()
-	var current = data.excercises[current_emotion][current_variation]
+	var current = data.exercises[current_emotion][current_variation]
 	var roll = rng.randi_range(0, current.size() - 1)
 	exercise = current[roll]
 	$Exercise/CenterContainer/MarginContainer/VBoxContainer/Title.text = exercise["title"]

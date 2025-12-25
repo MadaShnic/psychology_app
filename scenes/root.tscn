@@ -53,9 +53,10 @@ layout_mode = 2
 theme_override_constants/separation = 24
 
 [node name="Title" type="Label" parent="MainMenu/CenterContainer/MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(600, 0)
 layout_mode = 2
-theme_override_font_sizes/font_size = 80
-text = "Emotion Control App"
+theme_override_font_sizes/font_size = 100
+text = "SkillBox"
 horizontal_alignment = 1
 
 [node name="EmotionContainer" type="VBoxContainer" parent="MainMenu/CenterContainer/MarginContainer/VBoxContainer"]
@@ -251,18 +252,19 @@ layout_mode = 2
 theme_override_constants/separation = 24
 
 [node name="Title" type="Label" parent="Exercise/CenterContainer/MarginContainer/VBoxContainer"]
+custom_minimum_size = Vector2(1000, 0)
 layout_mode = 2
 theme_override_font_sizes/font_size = 80
 text = "variant - emotion"
 horizontal_alignment = 1
+autowrap_mode = 2
 
 [node name="Description" type="Label" parent="Exercise/CenterContainer/MarginContainer/VBoxContainer"]
 custom_minimum_size = Vector2(1000, 0)
 layout_mode = 2
-theme_override_font_sizes/font_size = 60
+theme_override_font_sizes/font_size = 40
 text = "Take a few deep breaths then ask yourself what to do in this moment aaaaaaa aaaaa aaaaaa Take a few deep breaths then ask yourself what to do in this moment aaaaaaa aaaaa aaaaaa Take a few deep breaths then ask yourself what to do in this moment aaaaaaa aaaaa aaaaaa Take a few deep breaths then ask yourself what to do in this moment aaaaaaa aaaaa aaaaaa Take a few deep breaths then ask yourself what to do in this moment aaaaaaa aaaaa aaaaaa"
-horizontal_alignment = 1
-autowrap_mode = 3
+autowrap_mode = 2
 
 [node name="MarginContainer" type="MarginContainer" parent="Exercise"]
 layout_mode = 1
