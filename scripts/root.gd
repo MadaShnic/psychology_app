@@ -18,7 +18,7 @@ func _ready():
 		
 	for btn in var_buttons:
 		btn.pressed.connect(_on_variation_button_pressed.bind(btn))
-	
+
 func _on_emotion_button_pressed(button: Button) -> void:
 	current_emotion = button.text.to_lower().strip_edges()
 	$Variation.show()
@@ -70,7 +70,8 @@ func add_button(text: String) -> void:
 	# theme overrides
 	button.add_theme_color_override("font_color", Color.BLACK)
 	button.add_theme_font_size_override("font_size", 80)
-
+	button.autowrap_mode = TextServer.AUTOWRAP_WORD
+	
 	var style := StyleBoxFlat.new()
 	style.bg_color = Color.WHITE
 	style.corner_radius_top_left = 12
